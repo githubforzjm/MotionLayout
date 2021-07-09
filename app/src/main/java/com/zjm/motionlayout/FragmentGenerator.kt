@@ -38,6 +38,19 @@ object FragmentGenerator {
             LayoutType.LAYOUT_10 -> {
                 FragmentSample10()
             }
+            LayoutType.LAYOUT_10_1 -> {
+                FragmentSample10_1()
+            }
+            LayoutType.LAYOUT_11 -> {
+                FragmentSample11()
+            }
+
+            LayoutType.LAYOUT_12 -> {
+                FragmentSample12()
+            }
+            LayoutType.LAYOUT_13 -> {
+                FragmentSample13()
+            }
             else -> {
                 FragmentSample1()
             }

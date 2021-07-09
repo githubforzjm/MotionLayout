@@ -11,7 +11,11 @@ object LayoutType {
     const val LAYOUT_7 = "图片转换"
     const val LAYOUT_8 = "关键帧插值"
     const val LAYOUT_9 = "关键帧周期"
-    const val LAYOUT_10 = "结合Lottie使用"
+    const val LAYOUT_10 = "结合Lottie-错误示范"
+    const val LAYOUT_10_1 = "结合Lottie使用"
+    const val LAYOUT_11 = "动画状态监听"
+    const val LAYOUT_12 = "示例1"
+    const val LAYOUT_13 = "示例2"
 
 
 }
