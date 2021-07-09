@@ -13,7 +13,18 @@ private val TAB_TITLES = arrayOf(
     LayoutType.LAYOUT_2,
     LayoutType.LAYOUT_3,
     LayoutType.LAYOUT_4,
-    LayoutType.LAYOUT_5, LayoutType.LAYOUT_6, LayoutType.LAYOUT_7, LayoutType.LAYOUT_8,LayoutType.LAYOUT_9,LayoutType.LAYOUT_10
+    LayoutType.LAYOUT_5,
+    LayoutType.LAYOUT_6,
+    LayoutType.LAYOUT_7,
+    LayoutType.LAYOUT_8,
+    LayoutType.LAYOUT_9,
+    LayoutType.LAYOUT_10,
+    LayoutType.LAYOUT_10_1,
+    LayoutType.LAYOUT_11,
+    LayoutType.LAYOUT_12,
+    LayoutType.LAYOUT_13
+
+
 )
 
 class SectionsPagerAdapter(val context: Context) :
